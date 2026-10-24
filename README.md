@@ -2,12 +2,12 @@
 
 MSc Computer Engineering student at Aarhus University, specialising in software engineering and graduating in January 2027. I'm currently writing my thesis and working part-time as a teaching assistant for Computer Games Technologies and Security & Privacy.
 
-Previously, I spent a year as a full-stack software engineer at Agitavit Solutions, working on the [Hilti PROFIS Engineering Suite](https://www.hilti.com/content/hilti/W1/US/en/business/business/engineering/profis-engineering.html) with C#, .NET, TypeScript and Angular. My main interest is backend development, especially software architecture, system design and distributed systems.
+Previously, I spent a year as a full-stack software engineer at [Agitavit Solutions](https://www.agitavit.com/), working on the [Hilti PROFIS Engineering Suite](https://www.hilti.com/content/hilti/W1/US/en/business/business/engineering/profis-engineering.html) with C#, .NET, TypeScript, Angular and PostgreSQL. My main interest is backend development, especially software architecture, system design and distributed systems.
 
 ## Stack
 
-- **Languages:** C#, Java, TypeScript, JavaScript, Kotlin, Python, C, SQL
-- **Frameworks and libraries:** .NET, Entity Framework Core, Quarkus, Angular, React, gRPC, WebGL
+- **Languages:** C#, Java, TypeScript, JavaScript, C, Python, SQL
+- **Frameworks and libraries:** .NET, Entity Framework Core, Angular, WebGL, Quarkus, React, gRPC
 - **Data and messaging:** PostgreSQL, Kafka
 - **Infrastructure:** Docker, Kubernetes, Helm, Keycloak, Firebase, GitLab CI/CD, GitHub Actions
 - **Tools:** Git, GitHub, GitLab, Jira, Confluence, VS Code, Visual Studio, IntelliJ IDEA, Claude Code, GitHub Copilot
@@ -28,4 +28,4 @@ Previously, I spent a year as a full-stack software engineer at Agitavit Solutio
 
 ## Contact
 
-I'm looking for a full-time software engineering role in Copenhagen or Aarhus, ideally starting in February 2027. Reach me on [LinkedIn](https://www.linkedin.com/in/edin-sabic-dev).
+Open to a software engineering role in Copenhagen or Aarhus, starting in March 2027. Get in touch: [LinkedIn](https://www.linkedin.com/in/edin-sabic-dev).
