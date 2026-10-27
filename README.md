@@ -7,8 +7,8 @@ Previously, I spent a year as a full-stack software engineer at [Agitavit Soluti
 ## Stack
 
 - **Languages:** C#, Java, TypeScript, JavaScript, C, SQL, Python, Kotlin
-- **Frameworks and libraries:** .NET, Entity Framework Core, Angular, WebGL, Quarkus, React, gRPC
-- **Data and messaging:** PostgreSQL, Kafka
+- **Frameworks and libraries:** .NET, Entity Framework Core, Angular, WebGL, Quarkus, React
+- **Data and messaging:** PostgreSQL, RabbitMQ, InfluxDB, Cloud Firestore
 - **Infrastructure:** Docker, Kubernetes, Helm, Keycloak, Firebase, GitLab CI/CD, GitHub Actions
 - **Tools:** Git, GitHub, GitLab, Jira, Confluence, VS Code, Visual Studio, IntelliJ IDEA, Claude Code, GitHub Copilot
 
